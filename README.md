@@ -41,6 +41,4 @@ ResNet50 delivers the best performance for classifying waste images.
 - Expand for multi-class classification with more waste categories
 - Optimize hardware design for scalability
 
-## Contributing
 
-Contributions are welcome! Please refer to `contributing.md` for guidelines.
